@@ -1,4 +1,4 @@
-# SP25=ME200
+# SP25-ME200
 
 RESOURCES
 1. SLIDE,去年今年的都可以
